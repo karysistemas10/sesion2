@@ -4,17 +4,11 @@
         // nombre de la etiqueta a modificar 
         */
 
-        #conWidth {
-            width: 20px;
-            display: inline-block;
+        h1{
+            text-align: center;
+            color: black;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 1.5cm;
         }
 
-        .algunos {
-            background-color: beige;
-            width: 40px;
-        }
-
-        span {
-            color: red;
-        }
-
+       
