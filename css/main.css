@@ -1,0 +1,20 @@
+/*
+        // # Selector de :dir
+        // . selector de clase
+        // nombre de la etiqueta a modificar 
+        */
+
+        #conWidth {
+            width: 20px;
+            display: inline-block;
+        }
+
+        .algunos {
+            background-color: beige;
+            width: 40px;
+        }
+
+        span {
+            color: red;
+        }
+
